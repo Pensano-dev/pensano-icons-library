@@ -1,6 +1,6 @@
 {
   "name": "pensano-icons-library",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "For personalised icons used in our projects",
   "main": "index.js",
   "dependencies": {
