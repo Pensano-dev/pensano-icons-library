@@ -1,50 +1,50 @@
-import AuraLogo from "./src/icons/AuraLogo";
-import BabyChangingIcon from "./src/icons/BabyChangingIcon";
-import BabyChangingIcon1 from "./src/icons/BabyChangingIcon1";
-import BabyChangingIcon2 from "./src/icons/BabyChangingIcon2";
-import ComfortableSeatingIcon from "./src/icons/ComfortableSeatingIcon";
-import ComfortableSeatingIcon1 from "./src/icons/ComfortableSeatingIcon1";
-import ComfortableSeatingIcon2 from "./src/icons/ComfortableSeatingIcon2";
-import DirectionsIcon from "./src/icons/DirectionsIcon";
-import DirectionsIcon1 from "./src/icons/DirectionsIcon1";
-import DogFriendlyIcon from "./src/icons/DogFriendlyIcon";
-// import DogFriendlyIcon1 from "./src/icons";
-// import DogFriendlyIcon2 from "./src/icons";
-// import LowVolumeIcon from "./src/icons";
-// import LowVolumeIcon1 from "./src/icons";
-// import LowVolumeIcon2 from "./src/icons";
-// import NoBrightLightsIcon from "./src/icons";
-// import NoBrightLightsIcon1 from "./src/icons";
-// import NoBrightLightsIcon2 from "./src/icons";
-// import OpenLateIcon from "./src/icons";
-// import OpenLateIcon1 from "./src/icons";
-// import OpenLateIcon2 from "./src/icons";
-// import OutdoorSpaceIcon from "./src/icons";
-// import OutdoorSpaceIcon1 from "./src/icons";
-// import OutdoorSpaceIcon2 from "./src/icons";
-// import ParkingIcon from "./src/icons";
-// import ParkingIcon1 from "./src/icons";
-// import ParkingIcon2 from "./src/icons";
-// import PhoneIcon from "./src/icons";
-// import PhoneIcon1 from "./src/icons";
-// import PlainFoodIcon from "./src/icons";
-// import PlainFoodIcon1 from "./src/icons";
-// import PlainFoodIcon2 from "./src/icons";
-// import SelectIcon from "./src/icons";
-// import SelectIcon1 from "./src/icons";
-// import ToiletIcon from "./src/icons";
-// import ToiletIcon1 from "./src/icons";
-// import ToiletIcon2 from "./src/icons";
-// import UserIcon from "./src/icons";
-// import UserIcon1 from "./src/icons";
-// import WebIcon from "./src/icons";
-// import WebIcon1 from "./src/icons";
-// import WheelchairIcon from "./src/icons";
-// import WheelchairIcon1 from "./src/icons";
-// import WheelchairIcon2 from "./src/icons";
-// import WifiIcon from "./src/icons";
-// import WifiIcon1 from "./src/icons";
-// import WifiIcon2 from "./src/icons";
+import AuraLogo from "../src/svgs/aura-logo.svg";
+import BabyChangingIcon from "../src/svgs/baby-changing.svg";
+import BabyChangingIcon1 from "../src/svgs/baby-changing1.svg";
+import BabyChangingIcon2 from "../src/svgs/baby-changing2.svg";
+import ComfortableSeatingIcon from "../src/svgs/comfortable-seating.svg";
+import ComfortableSeatingIcon1 from "../src/svgs/comfortable-seating1.svg";
+import ComfortableSeatingIcon2 from "../src/svgs/comfortable-seating2.svg";
+import DirectionsIcon from "../src/svgs/directions.svg";
+import DirectionsIcon1 from "../src/svgs/directions1.svg";
+import DogFriendlyIcon from "../src/svgs/dog-friendly.svg";
+import DogFriendlyIcon1 from "../src/svgs/dog-friendly1.svg";
+import DogFriendlyIcon2 from "../src/svgs/dog-friendly2.svg";
+import LowVolumeIcon from "../src/svgs/low-volume.svg";
+import LowVolumeIcon1 from "../src/svgs/low-volume1.svg";
+import LowVolumeIcon2 from "../src/svgs/low-volume2.svg";
+import NoBrightLightsIcon from "../src/svgs/no-bright-lights.svg";
+import NoBrightLightsIcon1 from "../src/svgs/no-bright-lights1.svg";
+import NoBrightLightsIcon2 from "../src/svgs/no-bright-lights2.svg";
+import OpenLateIcon from "../src/svgs/open-late.svg";
+import OpenLateIcon1 from "../src/svgs/open-late1.svg";
+import OpenLateIcon2 from "../src/svgs/open-late2.svg";
+import OutdoorSpaceIcon from "../src/svgs/outdoor-space.svg";
+import OutdoorSpaceIcon1 from "../src/svgs/outdoor-space1.svg";
+import OutdoorSpaceIcon2 from "../src/svgs/outdoor-space2.svg";
+import ParkingIcon from "../src/svgs/parking.svg";
+import ParkingIcon1 from "../src/svgs/parking1.svg";
+import ParkingIcon2 from "../src/svgs/parking2.svg";
+import PhoneIcon from "../src/svgs/phone.svg";
+import PhoneIcon1 from "../src/svgs/phone1.svg";
+import PlainFoodIcon from "../src/svgs/plain-food.svg";
+import PlainFoodIcon1 from "../src/svgs/plain-food1.svg";
+import PlainFoodIcon2 from "../src/svgs/plain-food2.svg";
+import SelectIcon from "../src/svgs/select.svg";
+import SelectIcon1 from "../src/svgs/select1.svg";
+import ToiletIcon from "../src/svgs/toilet.svg";
+import ToiletIcon1 from "../src/svgs/toilet1.svg";
+import ToiletIcon2 from "../src/svgs/toilet2.svg";
+import UserIcon from "../src/svgs/user.svg";
+import UserIcon1 from "../src/svgs/user1.svg";
+import WebIcon from "../src/svgs/web.svg";
+import WebIcon1 from "../src/svgs/web1.svg";
+import WheelchairIcon from "../src/svgs/wheelchair.svg";
+import WheelchairIcon1 from "../src/svgs/wheelchair1.svg";
+import WheelchairIcon2 from "../src/svgs/wheelchair2.svg";
+import WifiIcon from "../src/svgs/wi-fi.svg";
+import WifiIcon1 from "../src/svgs/wi-fi1.svg";
+import WifiIcon2 from "../src/svgs/wi-fi2.svg";
 
 export {
   AuraLogo,
@@ -57,52 +57,41 @@ export {
   DirectionsIcon,
   DirectionsIcon1,
   DogFriendlyIcon,
+  DogFriendlyIcon1,
+  DogFriendlyIcon2,
+  LowVolumeIcon,
+  LowVolumeIcon1,
+  LowVolumeIcon2,
+  NoBrightLightsIcon,
+  NoBrightLightsIcon1,
+  NoBrightLightsIcon2,
+  OpenLateIcon,
+  OpenLateIcon1,
+  OpenLateIcon2,
+  OutdoorSpaceIcon,
+  OutdoorSpaceIcon1,
+  OutdoorSpaceIcon2,
+  ParkingIcon,
+  ParkingIcon1,
+  ParkingIcon2,
+  PhoneIcon,
+  PhoneIcon1,
+  PlainFoodIcon,
+  PlainFoodIcon1,
+  PlainFoodIcon2,
+  SelectIcon,
+  SelectIcon1,
+  ToiletIcon,
+  ToiletIcon1,
+  ToiletIcon2,
+  UserIcon,
+  UserIcon1,
+  WebIcon,
+  WebIcon1,
+  WheelchairIcon,
+  WheelchairIcon1,
+  WheelchairIcon2,
+  WifiIcon,
+  WifiIcon1,
+  WifiIcon2,
 };
-// export { default as AuraLogo } from "./src/icons/AuraLogo";
-// export { default as BabyChangingIcon } from "./src/icons/BabyChangingIcon";
-// export { default as BabyChangingIcon1 } from "./src/icons/BabyChangingIcon1";
-// export { default as BabyChangingIcon2 } from "./src/icons/BabyChangingIcon2";
-// export { default as ComfortableSeatingIcon } from "./src/icons/ComfortableSeatingIcon";
-// export { default as ComfortableSeatingIcon1 } from "./src/icons/ComfortableSeatingIcon1";
-// export { default as ComfortableSeatingIcon2 } from "./src/icons/ComfortableSeatingIcon2";
-// export { default as DirectionsIcon } from "./src/icons/DirectionsIcon";
-// export { default as DirectionsIcon1 } from "./src/icons/DirectionsIcon1";
-// export { default as DogFriendlyIcon } from "./src/icons/DogFriendlyIcon";
-
-// DogFriendlyIcon1,
-// DogFriendlyIcon2,
-// LowVolumeIcon,
-// LowVolumeIcon1,
-// LowVolumeIcon2,
-// NoBrightLightsIcon,
-// NoBrightLightsIcon1,
-// NoBrightLightsIcon2,
-// OpenLateIcon,
-// OpenLateIcon1,
-// OpenLateIcon2,
-// OutdoorSpaceIcon,
-// OutdoorSpaceIcon1,
-// OutdoorSpaceIcon2,
-// ParkingIcon,
-// ParkingIcon1,
-// ParkingIcon2,
-// PhoneIcon,
-// PhoneIcon1,
-// PlainFoodIcon,
-// PlainFoodIcon1,
-// PlainFoodIcon2,
-// SelectIcon,
-// SelectIcon1,
-// ToiletIcon,
-// ToiletIcon1,
-// ToiletIcon2,
-// UserIcon,
-// UserIcon1,
-// WebIcon,
-// WebIcon1,
-// WheelchairIcon,
-// WheelchairIcon1,
-// WheelchairIcon2,
-// WifiIcon,
-// WifiIcon1,
-// WifiIcon2,
