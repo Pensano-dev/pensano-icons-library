@@ -1,6 +1,6 @@
 import AuraLogo from "./src/icons/AuraLogo";
 import BabyChangingIcon from "./src/icons/BabyChangingIcon";
-import BabyChangingIcon1 from "../src/icons/BabyChangingIcon1";
+import BabyChangingIcon1 from "./src/icons/BabyChangingIcon1";
 import BabyChangingIcon2 from "./src/icons/BabyChangingIcon2";
 import ComfortableSeatingIcon from "./src/icons/ComfortableSeatingIcon";
 import ComfortableSeatingIcon1 from "./src/icons/ComfortableSeatingIcon1";
