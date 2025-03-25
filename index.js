@@ -46,16 +46,28 @@ import DogFriendlyIcon from "./src/icons/DogFriendlyIcon";
 // import WifiIcon1 from "./src/icons";
 // import WifiIcon2 from "./src/icons";
 
-export { default as AuraLogo } from "./src/icons/AuraLogo";
-export { default as BabyChangingIcon } from "./src/icons/BabyChangingIcon";
-export { default as BabyChangingIcon1 } from "./src/icons/BabyChangingIcon1";
-export { default as BabyChangingIcon2 } from "./src/icons/BabyChangingIcon2";
-export { default as ComfortableSeatingIcon } from "./src/icons/ComfortableSeatingIcon";
-export { default as ComfortableSeatingIcon1 } from "./src/icons/ComfortableSeatingIcon1";
-export { default as ComfortableSeatingIcon2 } from "./src/icons/ComfortableSeatingIcon2";
-export { default as DirectionsIcon } from "./src/icons/DirectionsIcon";
-export { default as DirectionsIcon1 } from "./src/icons/DirectionsIcon1";
-export { default as DogFriendlyIcon } from "./src/icons/DogFriendlyIcon";
+export {
+  AuraLogo,
+  BabyChangingIcon,
+  BabyChangingIcon1,
+  BabyChangingIcon2,
+  ComfortableSeatingIcon,
+  ComfortableSeatingIcon1,
+  ComfortableSeatingIcon2,
+  DirectionsIcon,
+  DirectionsIcon1,
+  DogFriendlyIcon,
+};
+// export { default as AuraLogo } from "./src/icons/AuraLogo";
+// export { default as BabyChangingIcon } from "./src/icons/BabyChangingIcon";
+// export { default as BabyChangingIcon1 } from "./src/icons/BabyChangingIcon1";
+// export { default as BabyChangingIcon2 } from "./src/icons/BabyChangingIcon2";
+// export { default as ComfortableSeatingIcon } from "./src/icons/ComfortableSeatingIcon";
+// export { default as ComfortableSeatingIcon1 } from "./src/icons/ComfortableSeatingIcon1";
+// export { default as ComfortableSeatingIcon2 } from "./src/icons/ComfortableSeatingIcon2";
+// export { default as DirectionsIcon } from "./src/icons/DirectionsIcon";
+// export { default as DirectionsIcon1 } from "./src/icons/DirectionsIcon1";
+// export { default as DogFriendlyIcon } from "./src/icons/DogFriendlyIcon";
 
 // DogFriendlyIcon1,
 // DogFriendlyIcon2,
