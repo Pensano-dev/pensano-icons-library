@@ -1,5 +1,5 @@
 import React from "react";
-import { ReactComponent as ComfortableSeatingIcon } from "../svgs/comfortable-seating.svg";
+import { ReactComponent as ComfortableSeatingSvg } from "../svgs/comfortable-seating.svg";
 
 const ComfortableSeatingIcon = ({ size = 24, style }) => (
   <ComfortableSeatingSvg width={size} height={size} style={style} />
